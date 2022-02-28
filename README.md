@@ -7,6 +7,6 @@ For example, let's say you picked up a rookie like **Justin Jefferson**, WR Minn
 
 This means you are getting a consensus 2nd round pick in the 12th round, or *10 rounds* of value. If you have 10 teams in your fantasy football league, that means 10 team * 10 rounds/picks per team = **100 picks**. I call that **"Overall Value"** throughout the code and visualizations. 
 
-## Visualization 
+# Visualization 
 
 https://tyso0042.github.io/DynastyFantasyFootballCalculation/
