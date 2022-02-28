@@ -7,8 +7,8 @@ const url = "https://public.tableau.com/views/PTyson_FFKeeperValues/Dashboard1?:
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
-    //hideTabs: true,
-    height: 1000,
+    hideTabs: true,
+    height: 2000,
     width: 1800,
     scrolling='yes',
     onFirstInteraction: function() {
